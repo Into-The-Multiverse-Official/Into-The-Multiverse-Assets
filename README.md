@@ -1,4 +1,9 @@
-# Into The Multiverse Official Repository
+<img src="RAW IMAGES/logos/blaperture_mesa_sticker.png" alt="blaperture_mesa_sticker" width="700" height="180" align="left">
+<br>
+<br>
+<br>
+
+# Into The Multiverse<br>Official Repository
 The official repository for the Into The Multiverse Portal 2 map series. Here both the normal singleplayer series and the ported coop series will be located. There are also test maps and other assets uploaded relating to the Into The Multiverse series.
 
 ***PLEASE READ!!!***
