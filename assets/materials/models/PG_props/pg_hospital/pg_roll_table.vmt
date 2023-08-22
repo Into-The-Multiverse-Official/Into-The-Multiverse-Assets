@@ -1,0 +1,15 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models\PG_props\pg_hospital/pg_roll_table"
+	"$bumpmap" "models\PG_props\pg_hospital/pg_roll_table_bump"
+        "$surfaceprop" "metal"
+	//"$nodecal" "1"
+	"$model" "1"
+
+	"$phong" "1"
+	"$phongexponent" "9"
+	"$phongboost"	"2"
+	"$phongfresnelranges"	"[0.05 0.5 1]"
+
+
+}

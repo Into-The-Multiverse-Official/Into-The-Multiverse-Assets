@@ -1,0 +1,7 @@
+unlitgeneric
+{
+$translucent 1
+$basetexture "WaterSource/particles/water_splash_01"
+$vertexcolor 1
+$vertexalpha 1
+}

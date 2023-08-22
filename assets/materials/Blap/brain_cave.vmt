@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "Blap/brain_cave"
+	"$surfaceprop" "Metal"
+	$selfillum 1
+}

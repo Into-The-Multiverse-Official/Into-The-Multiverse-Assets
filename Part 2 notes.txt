@@ -1,0 +1,85 @@
+-----------------------------
+INTO THE MULTIVERSE PART 2
+-----------------------------
+
+
+This is the first draft of the already available published design of part 2
+------------------------------------------------------------------------------
+You begin where Part 1 left off, Flying through space in a wormhole cutting straight through the multiverse.
+You crash land on one of the Earths and black out. Credits roll in and you hear glass and wood break. You awaken in an old abandoned cabin.
+The cabin was once owned by Cave Johnson and is the first outpost somewhere out in the mountainside. Huge Satelittes line the horizon.
+While snooping around you find the Monitor That Glados was transmitting to. She is astonished to find you are alive
+She is even more astonished to see the Banner For Blappeture Mesa near a Helipad and compound in the distance.
+The monitor suddenly catches fire from the electrical sparks. Glados wishes you luck before it abruptly explodes.
+
+Before you are two paths. One leads to the helipad, the other to an Power station. The station is gaurded by a deadly electrified fence.
+While heading to the Helipad you notice there are security cameras keeping watch. There are also weaponised Rocket turrets at the compound.
+A spray painted arrow points off to the side to a different area. While carefull avoiding the cameras you find another electrified fence.
+Beyond the fence is huge Ventilation station which clears exhaust from inside the compound. The fence noticably has wire extending behind you.
+After following the wires you find yourself within the outdoor power station. All it takes is one flip of a switch to shut it down entirely.
+You head back to the Ventilation Station to find the fence gate is no longer humming with electricity. It safe now to open the gate.
+Inside is a large spinning fan connected to a large tankard of coolant. You turn off the device, causing it to quickly overheat and explode.
+You peer inside to see the inner sewer system of the facility and a walkway below to step on. This is your only way in.
+
+After leaping into the sewer, you find the place is a mess. There are broken pathways and deadly bile everywhere you look.
+You find your way towards a Drainage station that pumps filth away from the facility and its bigger pipelines.
+Inside the office is a companion cube. You ponder if the cube is from this world or if its the one sent from your world.
+The pipes from the drainage system have ruptured, resulting in toxic bile blocking your pathway to the elevator.
+One of the safety rails had broken off, showing you there is a ladder positioned on the railings holding up the pipelines.
+You make your way across the beams and to the elevator. On the upper floor you find yourself in a hallway with several rooms.
+One of these is a meeting room with a projector and video disc player prompting to insert disc. In the maintanence room before is the disc.
+When the video plays, you are greeted with a message from THIS univeres's Cave Johnson. He Had just bought Black Mesa and rebranded it.
+During the takeover, he learned of the Anomolous Research Facility called Lambda Labs Where they almost started a Cascade Reaction.
+This event would have led to beginning narrative of the Half Life Series. Cave Johnson rightfully shut down the entire project.
+After the video ends you proceed back down the hall and into the main coumpound.
+
+The Compound is filled with equipment that has been shipped in and awaiting processing. There is also a crane on the ceiling for offloading.
+While snooping around you discover an import crate from Aperture Labs containing Portal Guns. You sneakily grab one from the pile.
+Off to the side of the wall is a door to a stair well. Up top is the control center for the Crane system which is connected to a big pipe.
+Out if curiosity you fiddle with the controls, causing the pipe to be lifted off of the ground. You pull back another lever to move it again.
+The pipe swings gently to wards the exit garage door, before violently swinging towards the crane control station and crashing into the wall.
+The Glass cracks and splinters, but holds. The controls are now inoperable. After going back downstairs, you see the mess you made.
+The Pipe has shattered into peices and the internal garage door is bent and torn out of shape, leaving a chunk of the wall ripped out.
+A ceiling Panel inside the room has visible fallen off, exposing a white tile that can be used to portal inside.
+
+Once inside, you find stacks of turret boxes inside containers, and stacks of broken decommisioned turrets in other containers.
+The elevator doors are locked, but there is an exposed panel showing the way to another pipe system. A Frankenturret begs for help. You cannot.
+Down in the shaft is an assortment of trash and pipes. You are forced to use broken turrets and cubes to shimmy onto pipes and walk over planks.
+You find a Rat Man den covered in paint and littered with trash and canned food. Clearly Aperture brought over their own garbage with them.
+Your path leads through a vent that again breaks under your weight and you find yourself even deeper in the sewers.
+Past the pipes, the portal panels, and the emancipation grill is a closed gate and a pump system. You access the controls to open the gate.
+The gate reveals a walled off room that can only be accessed by portals inside is a dark pipeline leading directly to Blappeture Mesa
+
+END OF PART 2
+
+---------------------------------------------------
+BELOW ARE A LIST OF BUGS THAT HAVE YET TO BE FIXED
+---------------------------------------------------
+
+-Bug 1 Sometimes the sun just will not render in the opening scene. DONT KNOW WHY.
+-Bug 2 Due to the outdoors not being properly optimized, you cannot take any real damage. All deaths are triggered with command prompts.
+-Bug 3 If you sprint jump down the hill, you will slide past the Glados Monitor making the cutscene all janky.
+-Bug 4 When you activate the elevator too soon, it wont play the sound its supposed to make for the door closing.
+-Bug 5 There is an exposed pipe on a pallet in the compound facing up wards. DO NOT ACCIDENTALLY GO INSIDE IT, YOU WILL GET STUCK!
+-Bug 6 There is a green death pit that is supposed to destroy whatever falls in, instead they just pile up.
+-Bug 7 Objects that fall into the pit get cloned from the pile of trash, but in doubles, resulting in infinite cubes and turrets.
+-Bug 8 You're supposed to LOSE the cube and turret to the emancipation grill, but due to poor planning you can turn off the grill first.
+
+
+----------------
+Intended changes
+----------------
+
+I hoped to make better special effects for the worm hole going to Earth so it doesnt look like it abruptly stops rendering.
+When you wake up there is a twinkle in the sky. This is supposed to be the worm hole collapsing. There wasnt anything better to use. 
+The mountain range is currently far more dark in contrast to the sky. I wanted to make the place feel unfamiliar
+But I couldnt find the best earth texture to use so I went with ugly rock.
+Originally I imported a model of an osprey which is a type of helicopter i placed on the helipad. It used way too make data so i tossed it.
+The rocket turrets in Portal 2 are unfortunately not as functional as the ones in Portal 1. They have no animations whatsoever.
+They also are NOT gauranteed to cause damage, hence why I used kill triggers and particle effects.
+The Power Station among many other elements are made from repuposed game models. Infact there is a LOT of repurposed game models.
+I only wished I could have made more actual puzzles for this series. Part 2 is actually the shortest map of all of them.
+One of the themes I wanted to implement was that in every map you see a companion cube, but it is always out of reach and on the move.
+In this map there is 2 cubes. One stuck in an office, and one in the sewer.
+
+Whatever changes that may occur, the end result here is falling down a pipeline into the darkness, which leads to part 3

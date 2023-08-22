@@ -1,0 +1,21 @@
+"vertexlitgeneric"
+{
+
+	"$baseTexture" "models\PG_props\pg_chemistry/pg_brain"
+	"$bumpmap" "models\PG_props\pg_chemistry/pg_brain_bump"
+	"$model" 1
+
+	"$yellow" "0"
+	"$one" "1"
+
+	
+	"$phong" "1"
+	"$phongexponent" "100"
+	"$phongboost" "0.2"	
+	"$lightwarptexture" "models\PG_props\pg_chemistry/pg_lightwarp"
+	"$phongfresnelranges"	"[2 1 5]"
+	"$halflambert" "1"
+
+
+}
+

@@ -1,0 +1,14 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "WaterSource\WaterGlow\WaterGlow256x16"
+	"$translucent" 1
+	"Proxies"
+	{
+	"AnimatedTexture"
+		{
+			"Animatedtexturevar" "$basetexture"
+			"Animatedtextureframenumvar" "$frame"
+			"Animatedtextureframerate" "15"
+		}
+	}
+}

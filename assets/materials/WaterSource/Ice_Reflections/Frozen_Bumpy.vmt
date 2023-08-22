@@ -1,0 +1,26 @@
+"Water"
+{
+	"$abovewater" 0
+	"%compilewater" 1
+
+	"%tooltexture" "WaterSource/Ice_Reflections/Frozen_Bumpy"
+	"$refractamount" "1"
+	"$refracttint" "[1 1 1]"
+
+	"$reflecttexture" "_rt_WaterReflection"
+	"$reflectamount" "1"
+	"$reflecttint" "[1 1 1]"
+
+	"$scale" "[1 1]"
+
+	"$normalmap" "WaterSource/Ice_Reflections/Frozen_Bumpy"
+
+	"$surfaceprop" "ice"
+
+	"$fogenable" 0
+	"$fogcolor" "{1 1 1}"
+	"$fogstart" "2000"
+	"$fogend" "2000"
+
+}
+

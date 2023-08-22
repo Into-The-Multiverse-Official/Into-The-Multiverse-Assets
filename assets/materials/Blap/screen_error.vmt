@@ -1,0 +1,17 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "Blap/screen_error"
+$selfillum 1
+"startframe" "1"
+"endframe" "2"
+
+"Proxies" 
+{ 
+"AnimatedTexture" 
+{ 
+"animatedTextureVar" "$basetexture" 
+"animatedTextureFrameNumVar" "$frame" 
+"animatedTextureFrameRate" "2"
+}
+} 
+}

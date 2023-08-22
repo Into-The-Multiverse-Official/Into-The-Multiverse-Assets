@@ -1,0 +1,15 @@
+-----------------------------
+INTO THE MULTIVERSE PART 9
+-----------------------------
+
+
+Part 9 was originally going to be part 8, but i decided i wanted to create a narrative that would tie in Rusty and Chell instead.
+I had not been able to finish part 9 either due to not being able to come up with means of tieing together the various game elements.
+
+You will notice that some of these elements are an attempt to replicate the chapter of Half Life where you prepare the Cascade Portal.
+I also tried re-inventing the final portal by making it significantly bigger than normal, but there were several issues that arose.
+I wanted to make a giant portal open to the wrong world and a huge monster come through, but i had problems with clipping models.
+The hydro rooms also had issues due to not possesing enough testing and the enemies were too easy to defeat with the portivity gun.
+
+I think it would be a good idea to create some kind of relay system that regulates health bars for the enemies so they dont die immediately.
+ 

@@ -1,0 +1,5 @@
+"MonitorScreen"
+{
+	"$basetexture" "Blap/off"
+	"$translucent" 1
+}

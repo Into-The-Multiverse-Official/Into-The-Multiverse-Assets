@@ -1,0 +1,13 @@
+"LightmappedGeneric"
+{
+	"$abovewater" 0	
+	"%compilewater" 1
+
+	"$basetexture" "dev/water"
+	"$scale" "[1 1]"
+	"$translucent" "1"
+	"$alpha" "0"
+	"$forcecheap" "1"
+	// This is needed for physics, etc.
+	"$surfaceprop" "water"
+}

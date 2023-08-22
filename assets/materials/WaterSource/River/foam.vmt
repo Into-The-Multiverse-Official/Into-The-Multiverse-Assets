@@ -1,0 +1,16 @@
+"lightmappedgeneric"
+{
+	"$basetexture" "Watersource/river/foam"
+	$translucent 1
+	$alpha .9
+	"$nocull" "1"
+	Proxies
+	{
+		TextureScroll
+		{
+			texturescrollvar $basetexturetransform
+			texturescrollrate .75
+			texturescrollangle 0
+		}
+	}
+}

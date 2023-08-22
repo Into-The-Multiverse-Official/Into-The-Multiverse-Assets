@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "Blap/blueprint_3"
+	"$surfaceprop" "Metal"
+	$selfillum 1
+}
+

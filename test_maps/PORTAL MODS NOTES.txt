@@ -1,0 +1,106 @@
+There are several experimental mods meant for Blappeture Mesa and Into the Multiverse. And others just for fun.
+Some of these come in different designs, most of them have bugs and others are half finished.
+Have fun with experimenting with these abominations.
+
+
+----
+BB8
+---------------------------------------------------------------------------------------------------------------------------------
+BB8 is a remote operated bot that refrences Star Wars. Mind you, this was conceived just after the trailer was initially released.
+Originally I wanted his head to track the players head movements, but that failed to work. instead the camera and blody flailed a lot
+The movements and controls are limited due to UI having limited choices to work with. You have to crouch to turn off the robot.
+Someone once mentioned that a text file can be imported to create custom binds, but i never could get that to work.
+Portaling this will result in the root parent taking priority and the children cliping through the wall before teleporting.
+---------------------------------------------------------------------------------------------------------------------------
+
+-----------------
+Flying Bomber NPC
+---------------------------------------------------------------------------------------------------------------------------------------------
+This was my first attempt at creating the automated Flying red bomb core. Originally i tried the actual bomb prop, but it always broke early.
+I tried to make the bomber have sporadic idle animations by making them fly toward coordinates, but the results were not great.
+One could however create paths similar to the railways that cores use, but that would be infinitely more complex that this.
+Portaling this will result in the root parent taking priority and the children cliping through the wall before teleporting.
+------------------------------------------------------------------------------------------------------------------------------------
+
+-------------
+Glados Flyer
+-----------------------------------------------------------------------------------------------------------------------------------------
+My first flying NPC, just after the wheatley helicopter. This one does not actually fly but follows a pathway like the cores on railings.
+I used a series of rotating parts to create the illusion of banking turns and stabalizers. The tricky part is timing everything.
+The rocket turrets regretablly dont always cause damage, so a lot of scripted elements were put in place to simulate the explosions
+-------------------------------------------------------------------------------------------------------------------------------------
+
+------------
+Heli-Bomber
+---------------------------------------------------------------------------------------------------------------------------------
+The heli-bomber was my first attempt at remote controlled machinery. However the controls are of course limited thanks to the UI.
+The stability of all these flying devices are pretty janky thanks to the phys_keepupright, but what else is to be done?
+The really annoying part was when the camera goes white when you drive this sucker through a portal, resulting in the cam being inside a wall.
+Portaling this will result in the root parent taking priority and the children cliping through the wall before teleporting.
+--------------------------------------------------------------------------------------------------------------------------------
+
+-------------
+Hover Board
+---------------------------------------------------------------------------------------------------------------------------------------
+This one never got fully realized due to inconsistant results. Somewhere in the workshop someone published this from my far older maps.
+The biggest issue is the device operates by using troll physics. You lift it, it lifts you. I used push and catapult fields instead.
+Unfortunately the effects sometimes dont occur at all, or they launch you right into the ceiling at break neck speeds.
+However the worst part is that the map this was used on had water in it. When you drop this thing in water, your game WILL CRASH.
+I never found out which parts caused this. it might be the particles, which behave differently when submerged.
+Portaling this will result in the root parent taking priority and the children cliping through the wall before teleporting.
+----------------------------------------------------------------------------------------------------------------------------------------
+
+--------------------
+Portable Portal Wall
+----------------------------------------------------------------------------------------------------------------------------------------
+This tiny tile is a fold out wall that you can place portals onto. It never got implemented because once it moves, the portal collapses.
+And it can easily be moved the instant you attempt to walk through a portal. Cheats can however be used to allow for moving portals.
+But moving portals distort the affect gravity has on the player when jumping anywhere near the actual portal. I learned this in my older maps.
+Portaling this will result in the root parent taking priority and the children cliping through the wall before teleporting.
+----------------------------------------------------------------------------------------------------------------------------------------
+
+-------------------
+Portivity Combo Gun
+-----------------------------------------------------------------------------------------------------------------------------------------
+This is my latest design of my ultimate tool. The version in the latest maps however is older than this particular mod that i made.
+Before the effects would clip through walls, allowing you to pull objects beyond walls. This one regulates the effects using multiple parts.
+The feilds that push and pull are now segmented and disable when beyond the devices line of sight, thus limiting its power to the users view.
+I also put in electric arcs and particle effects for the gravity mode so you can see it actually pulling objects toward you.
+I tried changing the main weapons pellet dispensor by using actual combine balls to change the explosive yeilds. It still has its issues though.
+The combine balls will bounces around instead of attaching themselves to what you hit them with, and they now have a lifespan where they die.
+The balls also have blunt force impact as well and will push things around when colliding with anything that uses game physics.
+The file for this mod also includes the necessary tools for Rusty the turret, the flashlight, credits, fades, electrical damage, etc.
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+-----
+Seal
+--------------------------------------------------------------------------------------------------
+This is just a big door i never used. It was supposed to be for a pump room, but that got scrapped
+--------------------------------------------------------------------------------------------------
+
+-----------------
+Turret sentinal
+--------------------------------------------------------------------------------------------------------------------------------------
+This was supposed to be a security bot, originally slated for part 7. It was removed because it didnt really fit the mold for that part.
+Also it kinda was far too similar in general design to the Turret Monster, so it felt like the reveal would get downplayed a pinch.
+The snake like body is supposed to portrude from the ceiling, much like the camera in part 3 and scan the user and kill intruders.
+--------------------------------------------------------------------------------------------------------------------------------------
+
+
+--------------
+Turret Monster
+-----------------------------------------------------------------------------------------------------------------------------------------
+If you played my original multiverse mappack before i overhauled everything, you might recognize this horrid robotic eldritch monstrosity.
+its got 4 tentacle arms, 8 turret eyes, a laser mouth, and packs a huge punch. The original had all kinds of scripting to it for movement.
+The one you see in the mods folder however never got to be used and is awaiting more development. It needs a lot of work before its perfect.
+Into the Multiverse hints of the Monsters presence in Part 4, during the dark tube room. In part 5, the bloodied broken test chamber and vents.
+In Part 6, the broken train full of "hazzardous materials." And in Part 7, The crashed train in the acid pit just between the massive gates.
+Part 8 was originally intended to give you the first real glimpse of the Turret Monster, and Part 9 is when you actually fight the beast.
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+-----------
+watercooler
+------------------------------------------------------------------------------------------------------------------------------------------
+It is literally just that. A watercooler. Perfect for taking a break in the office while chell murders karen from accounting in cold blood.
+This little bit of brush work doesnt really do anything, its just aesthetic. I tried putting real water in it once. Game didnt like that.
+-------------------------------------------------------------------------------------------------------------------------------------------

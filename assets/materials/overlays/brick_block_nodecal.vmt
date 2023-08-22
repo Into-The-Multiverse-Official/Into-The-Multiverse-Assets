@@ -1,0 +1,6 @@
+LightMappedGeneric
+{
+$basetexture "overlays/brick_block_nodecal"
+$surfaceprop default
+"%keywords" "portal2 underground"
+}

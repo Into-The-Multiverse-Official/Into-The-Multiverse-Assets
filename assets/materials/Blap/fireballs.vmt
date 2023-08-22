@@ -1,0 +1,18 @@
+"UnlitGeneric"
+{
+$basetexture "Blap/fireballs"
+$translucent 1
+$spriteorientation vp_parallel
+"startframe" "1"
+"endframe" "12"
+
+"Proxies" 
+{ 
+"AnimatedTexture" 
+{ 
+"animatedTextureVar" "$basetexture" 
+"animatedTextureFrameNumVar" "$frame" 
+"animatedTextureFrameRate" "25"
+}
+} 
+}

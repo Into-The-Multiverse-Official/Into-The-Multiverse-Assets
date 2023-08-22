@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+  "$basetexture" "skybox/crisplf"
+  "$nofog" 1
+}

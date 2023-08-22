@@ -1,0 +1,57 @@
+"Water"
+{
+	"%compilewater" 1
+	"%tooltexture" "patriot/water/water001a_normal"
+
+	"$abovewater" 1
+	"$forceexpensive" 1
+
+	"$refract" 1
+	"$refracttexture" "_rt_WaterRefraction"
+	"$refracttint" "[0.75 0.75 0.75]"
+	"$refractamount" "0.5"
+
+	"$envmap" "env_cubemap"
+	"$reflecttexture" "_rt_WaterReflection"
+	"$reflectamount" "1"
+	"$reflecttint" "[1 1 1]"
+	"$reflectskyboxonly" 0
+	"$reflect2dskybox" 1
+	"$reflectentities" 1
+
+	"$bumpmap" "patriot/water/water001a_normal"
+	"$normalmap" "patriot/water/water001a_normal"
+
+	"$surfaceprop" "water"
+	"$bottommaterial" "patriot/water/water001a_beneath"
+	"$bumpframe" "0"
+
+	"$fogenable" 1
+	"$fogcolor" "{8 207 247}"
+	"$fogstart" -100
+	"$fogend" 500.00
+	"$lightmapwaterfog" 1
+
+	"Proxies"
+	{
+
+		"AnimatedTexture"
+		{
+			"animatedtexturevar" "$normalmap"
+			"animatedtextureframenumvar" "$bumpframe"
+			"animatedtextureframerate" 30.00
+		}
+
+		"TextureScroll"
+		{
+			"texturescrollvar" "$bumptransform"
+			"texturescrollrate" .05
+			"texturescrollangle" 45.00
+		}
+
+		"WaterLOD"
+		{
+		}
+	}
+}
+

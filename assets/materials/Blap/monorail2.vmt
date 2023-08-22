@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "Blap/monorail2"
+$selfillum 1
+}

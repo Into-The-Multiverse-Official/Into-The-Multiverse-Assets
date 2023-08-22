@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "Blap/blueprint_4"
+	"$surfaceprop" "Metal"
+	$selfillum 1
+}

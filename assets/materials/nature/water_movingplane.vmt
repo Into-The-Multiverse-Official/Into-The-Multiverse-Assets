@@ -1,0 +1,36 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "dev/water_moving"
+	"$bumpmap" "dev/water_normal"
+	"$translucent" "1"
+	"$surfaceprop" "water"
+	"$envmap" "env_cubemap"
+	"%compilewater" 1
+	"$abovewater" 1
+	"$bottommaterial" "nature/water_movingplane_beneath"
+	"$normalmapalphaenvmapmask" 1
+	"$fogenable" 1
+	"$fogcolor" "{8 207 247}"
+	"$fogstart" -100
+	"$fogend" 500.00
+	"$lightmapwaterfog" 1
+
+	
+	"$bumpframe" 0	// Needed for dx7 
+
+	"Proxies"
+	{
+		"AnimatedTexture"
+		{
+			"animatedtexturevar" "$basetexture"
+			"animatedtextureframenumvar" "$frame"
+			"animatedtextureframerate" 21.00
+		}
+		"AnimatedTexture"
+		{
+			"animatedtexturevar" "$bumpmap"
+			"animatedtextureframenumvar" "$bumpframe"
+			"animatedtextureframerate" 21.00
+		}
+	}
+}

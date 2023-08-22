@@ -1,0 +1,6 @@
+"MonitorScreen"
+{
+	"$basetexture" "Blap/pump2"
+	"$surfaceprop" "Glass"
+	"$surfaceprop2" "Metal"
+}

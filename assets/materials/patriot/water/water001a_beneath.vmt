@@ -1,0 +1,61 @@
+"Water"
+{
+	"$abovewater" 0
+	"$forceexpensive" 1
+	"%compilewater" 1
+
+	%tooltexture "patriot/water/water001a_normal"
+
+	"$reflectamount" "1.0"
+	"$reflectentities" 1
+
+	"$refract" 1
+	"$refracttexture" "_rt_WaterRefraction"
+	"$refracttint" "{192 192 192}"
+	"$refractamount" "0.5"
+
+	"$bumpmap" "patriot/water/water001a_normal"
+	"$normalmap" "patriot/water/water001a_normal"
+
+	"$surfaceprop" "water"
+
+	"$bumpframe" 0
+
+	"$fogenable" 1
+	"$fogcolor" "{8 207 247}"
+
+
+	//r_drawunderwateroverlay 1
+
+	"$fogstart" -8000
+	"$fogend" 5000.00
+
+	//r_drawunderwateroverlay 0
+
+	//"$fogstart" -10000
+	//"$fogend" 4000.00
+
+	"$lightmapwaterfog" 1
+
+	"$underwateroverlay" "patriot/water/water001a_underwatereffect"	//broken @ CS:GO ???	--> r_drawunderwateroverlay 1 (sv_cheats 1)
+
+	"Proxies"
+	{
+		"AnimatedTexture"
+		{
+			animatedtexturevar $normalmap
+			animatedtextureframenumvar $bumpframe
+			animatedtextureframerate "30.00"
+		}
+
+		"TextureScroll"
+		{
+			texturescrollvar $bumptransform
+			texturescrollrate "0.05"
+			texturescrollangle "45.00"
+		}
+		"WaterLOD"
+		{
+		}
+	}
+}

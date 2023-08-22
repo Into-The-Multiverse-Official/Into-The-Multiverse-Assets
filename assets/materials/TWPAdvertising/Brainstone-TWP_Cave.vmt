@@ -1,0 +1,6 @@
+LightMappedGeneric
+{
+	$basetexture "TWPAdvertising/Brainstone-TWP_Cave"
+	$surfaceprop "default"
+	$decal 1
+}

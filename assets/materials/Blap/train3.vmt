@@ -1,0 +1,39 @@
+"UnlitGeneric"
+{
+	"$basetexture" "Blap/train3"
+$selfillum 1
+
+$surfaceprop metal
+"%tooltexture" "dev/dev_scanline"
+$texture2 "dev/dev_scanline"
+$model 1
+$one 1
+$zero 0
+$temp 0
+$texoffset "[0 0]"
+$texscale .25
+$tex2offset "[0 0]"
+$tex2scale 0
+$a_b_halfwidth 0.1
+$a_b_noise 0
+$a_s_halfwidth 0.025
+$a_s_noise 0
+$a_t_halfwidth 0.00
+$a_threshold 0.7
+$alpha_bias 0.2
+
+$j_b_halfwidth 2
+$j_b_noise 0
+$j_s_halfwidth 0.05
+$j_s_noise 0
+$j_t_halfwidth 0.25
+$j_threshold 3
+$j_basescale 2
+
+$xo_b_halfwidth 0.035
+$xo_b_noise 0
+$xo_s_halfwidth 0.001
+$xo_s_noise 0
+$xo_t_halfwidth 0.0
+$xo_threshold 0.1
+}

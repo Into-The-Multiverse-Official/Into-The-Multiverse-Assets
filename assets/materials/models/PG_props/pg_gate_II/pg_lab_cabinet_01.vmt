@@ -1,0 +1,25 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models\PG_props\pg_Gate_II/pg_lab_cabinet_01"
+	"$bumpmap" "models\PG_props\pg_Gate_II/pg_lab_cabinet_01_bump"
+        "$surfaceprop" "metal"
+	//"$nodecal" "1"
+	"$selfillum" "1"
+	"$model" "1"
+		
+
+	"$phong" "0"
+	"$phongexponent" "5"
+	"$phongboost"	"5"
+	"$phongfresnelranges"	"[0.1 0.2 1]"
+
+	
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" "1"
+	"$envmapcontrast" 0
+	"$envmapsaturation" 0
+	"$envmaptint" "[ 1.6 1.7 1.7 ]"
+
+	"$reflectivity" "[ .35 .30 .27 ]" //this is a artificial radiosity boost
+
+}

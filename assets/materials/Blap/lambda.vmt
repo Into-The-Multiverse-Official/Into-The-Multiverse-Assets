@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+  "$basetexture" "Blap/lambda"
+  "$decal" 1
+  "$decalscale" 0.25
+  "$translucent" 1
+  }

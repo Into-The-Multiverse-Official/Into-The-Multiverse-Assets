@@ -1,0 +1,99 @@
+<!-- dmx encoding keyvalues2 1 format dmx 1 -->
+"DmeColorCorrectionOperatorList"
+{
+	"id" "elementid" "74fc611c-f651-4c64-bead-58fdf74948b4"
+	"operators" "element_array" 
+	[
+		"CDmeColorCorrectionSelectedHSVOp"
+		{
+			"id" "elementid" "e585504a-c385-44ab-aaff-3510656c670c"
+			"blendFactor" "float" "1"
+			"colorize" "bool" "0"
+			"deltaHSV" "vector3" "0 -1 -0.0156862754"
+			"enabled" "bool" "1"
+			"fuzziness" "float" "1"
+			"invertSelection" "bool" "0"
+			"name" "string" "HSV"
+			"selectedHSVs" "vector3_array" 
+			[
+				"0 0 0"
+			]
+			"selectedRGBs" "vector3_array" 
+			[
+				"0 0 0"
+			]
+			"selectionMethod" "int" "13"
+			"tolerance" "float" "0.2000000179"
+		},
+		"CDmeColorCorrectionCurvesOp"
+		{
+			"id" "elementid" "91469c15-763a-40f7-b295-e2d711da22b8"
+			"blendFactor" "float" "1"
+			"channelMask" "int" "7"
+			"controlPoints" "vector3_array" 
+			[
+				"0 0 0",
+				"0 0 0",
+				"0 0 0",
+				"0 0 0",
+				"0 0 0",
+				"0 0 0",
+				"0.2565445006 0.2146596909 0",
+				"0.7643979192 0.6387434602 0",
+				"1 1 0",
+				"1 1 0",
+				"1 1 0",
+				"1 1 0",
+				"1 1 0",
+				"1 1 0"
+			]
+			"enabled" "bool" "0"
+			"name" "string" "Curves"
+		},
+		"CDmeColorCorrectionColorBalanceOp"
+		{
+			"id" "elementid" "f5df96b4-fcc6-48cd-a43d-eca73c2c07aa"
+			"blendFactor" "float" "1"
+			"cyanRedBalance" "float_array" 
+			[
+				"10",
+				"0",
+				"10"
+			]
+			"enabled" "bool" "1"
+			"magentaGreenBalance" "float_array" 
+			[
+				"0",
+				"0",
+				"0"
+			]
+			"name" "string" "Balance"
+			"preserveLuminosity" "bool" "1"
+			"yellowBlueBalance" "float_array" 
+			[
+				"-10",
+				"-5",
+				"0"
+			]
+		},
+		"CDmeColorCorrectionCurvesOp"
+		{
+			"id" "elementid" "ef2f903e-d6eb-4cfd-af21-1d237199aa94"
+			"blendFactor" "float" "1"
+			"channelMask" "int" "7"
+			"controlPoints" "vector3_array" 
+			[
+				"0 0 0",
+				"0 0 0",
+				"0.2513088882 0.2251308858 0",
+				"0.5078533888 0.6649214625 0",
+				"0.727748692 0.9267015457 0",
+				"1 1 0",
+				"1 1 0"
+			]
+			"enabled" "bool" "1"
+			"name" "string" "Curves"
+		}
+	]
+}
+

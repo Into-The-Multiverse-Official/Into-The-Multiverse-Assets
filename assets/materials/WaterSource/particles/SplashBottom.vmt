@@ -1,0 +1,8 @@
+UnlitGeneric
+{
+$translucent 1
+$basetexture "WaterSource/particles/SplashBottom"
+$vertexcolor 1
+$vertexalpha 1
+$nocull 1
+}

@@ -1,0 +1,10 @@
+"UnlitGeneric"
+{
+	"$basetexture" "Blap/train4"
+$selfillum 1
+
+$surfaceprop metal
+"%tooltexture" "dev/dev_scanline"
+$texture2 "dev/dev_scanline"
+
+}

@@ -1,0 +1,15 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models\PG_props\pg_hospital/pg_ekg"
+	"$bumpmap" "models\PG_props\pg_hospital/pg_ekg_bump"
+        "$surfaceprop" "metal"
+	"$nodecal" "1"
+	"$model" "1"
+	"$selfillum" "1"
+
+	"$phong" "1"
+	"$phongexponent" "150"
+	"$phongboost"	"7"
+	"$phongfresnelranges"	"[0.05 0.5 1]"
+
+}

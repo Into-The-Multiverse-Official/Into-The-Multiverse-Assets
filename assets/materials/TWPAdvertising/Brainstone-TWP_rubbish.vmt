@@ -1,0 +1,7 @@
+LightmappedGeneric
+{
+	$basetexture "TWPAdvertising/Brainstone-TWP_rubbish"
+	$surfaceprop "default"
+	$translucent 1
+	$decal 1
+}
