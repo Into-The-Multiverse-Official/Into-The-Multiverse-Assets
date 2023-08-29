@@ -20,32 +20,16 @@
 // Process:
 // In order for each player to have their own Portivity Gun, they need their own 
 
-printl("\nportivity_gun.nut LOADED!!\n")
+printl("\nportivity_gun.nut loading!!\n")
 
-function PrintPlayerClass() {
-    foreach (curclass in playerclasses) {
-        printl(curclass)
-    }
-}
-
-function init() {
-    printl(playerclasses)
-    local itmvplayerclasses = {}
-    itmvplayerclasses.portivitygunmode <- "portal"
-    playerclasses.push(itmvplayerclasses)
-    printl(playerclasses)
-    printl(playerclasses.itmvplayerclasses)
-    printl(playerclasses.portivitygunmode)
-}
-testplayerentityid = 0
-playerlist = {
-    [testplayerentityid]: {mode: "portal"}
+playerlist <- {
+    testplayerentityid = {mode: "portal"}
 }
 function SwitchMode(player) {
     previousmode = playerlist.player.mode
     if (previousmode = "weapon"){
         printl("Switching to Portal mode...")
-        EntFireByHandle(target, action, value, delay, activator, caller)
+        EntFireByHandle(target, action, value, delay, player, null)
     }
     if (previousmode = "portal"){
         printl("Switching to Gravity mode...")
@@ -54,3 +38,9 @@ function SwitchMode(player) {
         printl("Switching to Weapon mode...")
     }
 }
+
+function init() {
+    printl(playerlist.testplayerentityid.mode)
+}
+
+printl("\nportivity_gun.nut LOADED!!\n")
