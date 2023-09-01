@@ -5,8 +5,8 @@
 <br>
 <br>
 
-# Into The Multiverse Official Repository
-The official repository for the Into The Multiverse Portal 2 map series. The regular single-player series and the ported coop series will be located here. Other test maps and other assets relating to the Into The Multiverse series are uploaded.
+# Into The Multiverse Assets Repository
+The assets repository for the Into The Multiverse Portal 2 map series. Assets and other original assets from the original 7z file pablo.emanuel shared buts its been organized and sorted for proper use. The original 7z file has also been rezipped into a zip file for those who don't have 7-Zip. Other test maps and other assets relating to the Into The Multiverse series are uploaded.
 
 ***PLEASE READ!!!***
 Instructions for working with Into The Multiverse maps:
