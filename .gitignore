@@ -1,3 +1,15 @@
-
+# Hammer backup files and log files.
 *.vmx
 *.log
+
+# Symbolic links on Orsell's computer for itmvcoop assets.
+# These links can be reimplemented into the assets folder
+# to then be used. You need to both have the 
+# Into-The-Multiverse-Assets and the 
+# Into-The-Multiverse-Coop-Edition repositories cloned and
+# that the user is symbolicly linking the assets folder
+# as instructed in the README of the 
+# Into-The-Multiverse-Assets repository. Then the user just
+# needs to readd the symbolic links to the following locations.
+assets/materials/memes
+assets/scripts
