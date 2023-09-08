@@ -1,6 +1,4 @@
-# Hammer backup files and log files.
-*.vmx
-*.log
+
 
 # Symbolic links on Orsell's computer for itmvcoop assets.
 # These links can be reimplemented into the assets folder
