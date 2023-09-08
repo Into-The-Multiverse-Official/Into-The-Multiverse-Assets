@@ -1,4 +1,11 @@
+# Ignoring .vscode folder
+.vscode
 
+# Ignoring Hammer files that are not needed on the repository
+*.prt
+*.lin
+*.log
+*.vmx
 
 # Symbolic links on Orsell's computer for itmvcoop assets.
 # These links can be reimplemented into the assets folder
