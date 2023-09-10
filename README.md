@@ -1,4 +1,4 @@
-<img src="RAW IMAGES/logos/blaperture_mesa_sticker.png" alt="blaperture_mesa_sticker" width="1000" height="200" align="left">
+<img src="raw_images/logos/blaperture_mesa_sticker.png" alt="blaperture_mesa_sticker" width="1000" height="200" align="left">
 <br>
 <br>
 <br>
