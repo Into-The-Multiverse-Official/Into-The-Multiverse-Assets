@@ -8,8 +8,8 @@
 # Into The Multiverse Assets Repository
 The assets repository for the Into The Multiverse Portal 2 map series. Assets and other original assets from the original 7z file pablo.emanuel shared, but it has been organized and sorted for proper use. The original 7z file has also been rezipped into a zip file for those who don't have 7-Zip. Other test maps and other assets relating to the Into The Multiverse series are uploaded. In summary, this repository essentially is a reorganized version of the original 7z file designed for use with Git.
 
-***PLEASE READ!!!***
-Instructions for working with Into The Multiverse maps:
+***PLEASE READ!!!*** Instructions for working with Into The Multiverse maps:
+
 These instructions assume you're using a Windows 10 or 11 system, as they have the best compatibility. MacOS has barely, if not any, support for Valve's tools and games, primarily due to Apple dropping 32-bit support applications, which are most of Valve's products. Wine or some other compatibility layer tool could work, but you must do your own research and do it yourself. As for Linux, the only proper working Hammer editor for the platform (that we know of) would be Portal 2: Community Edition's Hammer Editor because of their direct support for the platform. It's under a closed beta and is still being worked on, so it might not be the most stable. I tried Wine for Hammer and Hammer++, the load and buttons function, but due to them not having the right graphics software for Linux, the view windows will not render them pretty much useless. This case might be the same for MacOS. Please let us know if you know of any way to get either working for Linux.
 
 1. Clone this repository; ensure the destination is in a folder with no files.
