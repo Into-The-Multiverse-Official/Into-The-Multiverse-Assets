@@ -12,6 +12,8 @@ The assets repository for the Into The Multiverse Portal 2 map series. Assets an
 
 These instructions assume you're using a Windows 10 or 11 system, as they have the best compatibility. MacOS has barely, if not any, support for Valve's tools and games, primarily due to Apple dropping 32-bit support applications, which are most of Valve's products. Wine or some other compatibility layer tool could work, but you must do your own research and do it yourself. As for Linux, the only proper working Hammer editor for the platform (that we know of) would be Portal 2: Community Edition's Hammer Editor because of their direct support for the platform. It's under a closed beta and is still being worked on, so it might not be the most stable. I tried Wine for Hammer and Hammer++, the load and buttons function, but due to them not having the right graphics software for Linux, the view windows will not render them pretty much useless. This case might be the same for MacOS. Please let us know if you know of any way to get either working for Linux.
 
+***IMPORTANT: This repository uses Git LFS to store and handle the big files. You need to have it installed and initialized for you to access LFSed files. [Install Git LFS](https://git-lfs.com/)***
+
 1. Clone this repository; ensure the destination is in a folder with no files.
 2. Read the ABSOLUTELY READ ME RIGHT NOW YOU MAD MAN.txt file. It's a message from Blappature, and I recommend you read it.
 3. Move the repo to a new folder in the maps folder in the sdk_content folder of your Portal 2 install. The full path from your Portal 2 folder should be: Portal 2/sdk_content/maps/(repository here)
